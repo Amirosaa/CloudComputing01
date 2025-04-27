@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/amirosa/.cache/upstart/indicator-sound.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/gnome-keyring.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/update-notifier-release.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/update-notifier-cds.log" 2025-4-26-21:0:0
+"/home/amirosa/.cache/upstart/indicator-printers.log" 2025-4-25-0:3:59
+"/home/amirosa/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_i386-linux-gnu_hud_hud-service.1000.crash.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/unity7.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/window-stack-bridge.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/ssh-agent.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/gnome-keyring-ssh.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/upstart-event-bridge.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/hud.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/gpg-agent.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/indicator-keyboard.log" 2025-4-25-0:3:59
+"/home/amirosa/.cache/upstart/unity-panel-service.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/dbus.log" 2025-4-26-21:28:54
+"/home/amirosa/.cache/upstart/unity-settings-daemon.log" 2025-4-26-21:28:54
